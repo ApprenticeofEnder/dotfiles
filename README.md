@@ -2,5 +2,6 @@
 
 Dotfiles created for various purposes.
 
-Current loadouts:
+Current options:
 - Hacking (Bizon/Cobra)
+- Fedora setup (Hornet)
